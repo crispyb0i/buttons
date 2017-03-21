@@ -12,3 +12,8 @@
   background-color: red;
   color: white;
 }
+
+.original-background {
+  background-color: none;
+  color: black;
+}
