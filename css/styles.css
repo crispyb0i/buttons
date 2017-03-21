@@ -1,0 +1,14 @@
+.green-background {
+  background-color: green;
+  color: gray;
+}
+
+.yellow-background {
+  background-color: yellow;
+  color: black;
+}
+
+.red-background {
+  background-color: red;
+  color: white;
+}
